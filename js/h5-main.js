@@ -4,7 +4,7 @@ var RADIUS = 8;
 var MARGIN_TOP = 60;//数字距离画布上面
 var MARGIN_LEFT = 30;//第一个数字距离画布左边
 
-const endTime = new Date(2018,7,23,10,00,00);//月份从0开始
+const endTime = new Date(2018,10,10,10,00,00);//月份从0开始
 var curShowTimeSeconds = 0
 
 var balls = [];
